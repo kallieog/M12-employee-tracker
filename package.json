@@ -1,0 +1,24 @@
+{
+  "name": "m12-employee-tracker",
+  "version": "1.0.0",
+  "description": "Employee tracker for module 12 assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kallieog/M12-employee-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kallieog/M12-employee-tracker/issues"
+  },
+  "homepage": "https://github.com/kallieog/M12-employee-tracker#readme",
+  "dependencies": {
+    "console-table-printer": "^2.11.1",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  }
+}
